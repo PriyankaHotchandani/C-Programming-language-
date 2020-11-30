@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582141368 source:c:\users\reshu\desktop\codeblocks\pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582139910 source:c:\users\reshu\desktop\codeblocks\pattern\p2.c
+	<stdio.h>
+	<stdlib.h>
+

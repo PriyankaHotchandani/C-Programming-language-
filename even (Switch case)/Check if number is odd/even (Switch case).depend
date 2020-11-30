@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582107916 source:c:\users\reshu\desktop\codeblocks\even (switch case)\check if number is odd\main.c
+	<stdio.h>
+	<stdlib.h>
+

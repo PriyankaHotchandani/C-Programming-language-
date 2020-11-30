@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581450303 source:c:\users\reshu\desktop\codeblocks\check if two numbers are equal\main.c
+	<stdio.h>
+	<stdlib.h>
+

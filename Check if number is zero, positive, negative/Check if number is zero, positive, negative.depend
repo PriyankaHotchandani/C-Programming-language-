@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581452296 source:c:\users\reshu\desktop\codeblocks\check if number is zero, positive, negative\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582102246 source:c:\users\reshu\desktop\codeblocks\print grade according to score\main.c
+	<stdio.h>
+	<stdlib.h>
+

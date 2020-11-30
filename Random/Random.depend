@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582103759 source:c:\users\reshu\desktop\codeblocks\random\main.c
+	<stdio.h>
+	<stdlib.h>
+

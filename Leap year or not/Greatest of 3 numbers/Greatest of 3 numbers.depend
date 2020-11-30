@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581449716 source:c:\users\reshu\desktop\codeblocks\greatest of 3 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

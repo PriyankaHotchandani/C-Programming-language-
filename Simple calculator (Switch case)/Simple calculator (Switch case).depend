@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582108151 source:c:\users\reshu\desktop\codeblocks\simple calculator (switch case)\main.c
+	<stdio.h>
+	<stdlib.h>
+
